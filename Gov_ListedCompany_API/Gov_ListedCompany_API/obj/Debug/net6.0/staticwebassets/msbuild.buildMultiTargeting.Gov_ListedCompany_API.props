@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gov_ListedCompany_API.props" />
+</Project>
